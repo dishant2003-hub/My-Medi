@@ -1,0 +1,17 @@
+/* Custom Theme Changes */
+.bg-menu-theme .menu-sub>.menu-item.ml1{
+    margin-left: 1rem;
+}
+
+.bg-menu-theme .menu-header{
+    color: #a1abb5;
+}
+.card .card-body.bg-dark{
+    background-color: #010125 !important;
+}
+.layout-horizontal .app-brand-logo.demo{
+    align-items: unset;
+    justify-content: unset;
+    width: auto;
+    height: 50px;
+}

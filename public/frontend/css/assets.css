@@ -1,0 +1,167 @@
+.font {
+    font-size: 25px;
+    color: #535148;
+}
+
+.glowIn {
+    text-align: center;
+    background-color: rgb(230, 232, 232);
+    padding: 60px 0px;
+}
+
+.glowIn h2 {
+    color: #00605A;
+}
+
+
+.goku {
+    margin-top: 10px;
+    padding: 25px 0px;
+    font-size: 16px;
+}
+
+.gojosaturo {
+    box-shadow: 0px 0px 15px 15px rgb(243, 239, 239);
+    border-radius: 10px;
+}
+
+.editbtn {
+    color: white;
+    background: #2f4f4f;
+    text-decoration: none;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+
+.editbtn:hover {
+    color: #2f4f4f;
+    background-color: white;
+    border: 1px solid #2f4f4f;
+}
+
+
+.gojo {
+    margin-top: 70px;
+}
+
+.gojo h4 {
+    font-size: 20px;
+    padding-top: 25px;
+    color: darkslategrey;
+}
+
+.gojo h6 {
+    font-size: 15px;
+    color: darkslategrey;
+}
+
+.saturo {
+    margin-top: 0px;
+}
+
+.saturo h4 {
+    font-size: 20px;
+    padding-top: 25px;
+    color: darkslategrey;
+}
+
+.saturo h6 {
+    font-size: 15px;
+    color: darkslategrey;
+}
+
+.sanshan h2 {
+    font-size: 30px;
+    padding: 20px 20px;
+    color: darkslategrey;
+}
+
+
+.alice h5 {
+    margin-left: 27px;
+    color: rgb(79, 94, 94);
+}
+
+.vegita {
+    width: 90%;
+    margin-left: 20px;
+    padding: 9px 15px;
+    color: darkslategrey;
+    border-radius: 40px;
+    background-color: rgb(230, 232, 232);
+}
+
+.kushina1 {
+    padding: 20px 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 15px rgb(243, 239, 239);
+}
+
+
+.kushina1 h6 {
+    font-size: 16px;
+    color: #103178;
+    margin-bottom: 18px;
+    margin-right: 80%;
+    font-weight: bold;
+    font-family: system-ui;
+}
+
+
+.remove {
+    border-radius: 10%;
+    margin-left: 90%;
+    font-size: 12px;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+.btn_edit_ajax {
+    margin-left: 15px;
+    border-radius: 10%;
+    margin-left: 85%;
+    font-size: 12px;
+}
+
+
+.kushina1 h3 {
+    margin-top: 12px;
+    font-size: 13px;
+    font-family: system-ui;
+}
+
+.kushina1 h5 {
+    margin-top: 20px;
+    font-size: 13px;
+}
+
+.elite {
+    margin-top: 40px;
+}
+
+.alice {
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+
+.borderland {
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.lite{
+    margin-left: 13px;
+}
+
+.product_all{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* ------------- index direct Wishlist -------------------- */
+
+.jacks{
+    color: red;
+} 

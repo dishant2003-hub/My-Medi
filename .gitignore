@@ -1,0 +1,6 @@
+vendor/*
+adminer.php
+application/logs/*
+upload/*
+composer.lock
+composer.json
