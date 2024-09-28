@@ -109,12 +109,13 @@
                                                 <?php
                                                 foreach ($subcategory as $subcat => $id) {
                                                     $arrow = $this->Service->get_row(TBL_CATEGORY, '*', array('id' => $subcat));
+                                                    if(!empty($arrow)){
                                                 ?>
                                                     <ul class="sub-menu">
                                                         <li><a href="<?= base_url('home/grid?cat_id=' . $category . '&subcat_id=' . $subcat) ?>"><?= $arrow['name'] ?></a></li>
                                                     </ul>
                                             <?php
-                                                }
+                                                } }
                                             }
                                             ?>
                                             </li>
